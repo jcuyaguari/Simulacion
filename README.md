@@ -1,5 +1,6 @@
+## Autor: Juan Carlos Cañar Uyaguari.
 
-}<H1 align="center"> Deberes y Algoritmos - Simulacion  </H1>
+<H1 align="center"> Deberes y Algoritmos - Simulacion  </H1>
  <br>
  
 ## Ejercicio  Numero 1
