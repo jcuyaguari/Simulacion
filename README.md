@@ -38,3 +38,11 @@
 ## Ejercicio  Numero 9
 **1** Simulador EventosSympy  [**"code" copiar el primer algoritmo**](https://github.com/jcuyaguari/Simulacion/blob/main/9.SimuladorEventosSympyParte2.ipynb)  <br>     
 **2** Ejecutar en Anaconda Notebook
+
+## Ejercicio  Numero 10
+**1** Cuadrados Medios [**"code" copiar el primer algoritmo**](https://github.com/jcuyaguari/Simulacion/blob/main/SegundoInterciclo/10.CuadradosMedios.ipynb)  <br>     
+**2** Ejecutar en Anaconda Notebook
+
+## Ejercicio  Numero 11
+**1** Congruencia Lineal  [**"code" copiar el primer algoritmo**](github.com/jcuyaguari/Simulacion/blob/main/SegundoInterciclo/11.Congruencia%20Lineal.ipynb)  <br>     
+**2** Ejecutar en Anaconda Notebook
