@@ -1,5 +1,7 @@
 ## Autor: Juan Carlos Cañar Uyaguari.
 
+### **https://jcuyaguari.github.io/Proyecto/Pagina/index.html**
+
 <H1 align="center"> Deberes y Algoritmos - Simulacion  </H1>
  <br>
  
